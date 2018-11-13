@@ -1,4 +1,4 @@
-Bamazon - 
+<h1>Bamazon</h1> 
 
 Languages Used - 
 
