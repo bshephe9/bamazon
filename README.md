@@ -14,18 +14,20 @@ This application is an amazon-like store that uses mysql and node.js
   <li>Run 'ctrl + c' to exit each mode</li> 
   </ul>
 <h2>Demo Videos</h2> 
+<ul>
+  <li>Customer Demo</li> 
+</ul>
 
-Customer Demo 
-
-
-
-Manager Demo 
-
+<ul>
+  <li>Manager Demo </li>
+</ul>
 
 <h2>Screen Shots of Bamazon</h2>
    
 
 <h2>Technologies Used</h2> 
--Node.js 
--Inquire NPM
--MySQL NPM 
+<ul>
+  <li>Node.js </li>
+  <li>Inquire NPM</li>
+  <li>MySQL NPM</li>
+</ul>
