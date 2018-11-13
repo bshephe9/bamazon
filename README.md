@@ -1,6 +1,7 @@
 <h1>Bamazon</h1> 
-This application is an amazon-like store that uses mysql and node.js
-
+<ul>
+  <li>Bamazon is an amazon-like storefront application</li>
+</ul>
 <h2>How to get started with Bamazon</h2> 
   <ul> 
   <li>Clone the Repo</li>  
